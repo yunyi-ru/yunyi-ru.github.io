@@ -18,7 +18,7 @@ output:
 
 Yunyi Ru is a 2nd year master's student in the Molecular Microbiology and Immunology department of [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/). 
 
-Yunyi currently works as a graduate student researcher at [The Pekosz Lab](https://pekoszlab.com/) on ***virology***, and a research assistant at [The R3ISE Center)](https://publichealth.jhu.edu/the-r3-center-for-innovation-in-science-education) on ***responsive science communication***. 
+Yunyi currently works as a graduate student researcher at [The Pekosz Lab](https://pekoszlab.com/) on ***virology***, and a research assistant at [R3ISE Center)](https://publichealth.jhu.edu/the-r3-center-for-innovation-in-science-education) on ***responsive science communication***. 
 
 ---
 
@@ -56,7 +56,7 @@ B.S. in Cell and Molecular Biology (Dual Degree) \| August 2019 - May 2023
 
 #### Others
 
-**[The R3ISE Center](https://publichealth.jhu.edu/the-r3-center-for-innovation-in-science-education), Johns Hopkins University** \| *Research Assistant* \| October 2023 - Present
+**[R3ISE Center](https://publichealth.jhu.edu/the-r3-center-for-innovation-in-science-education), Johns Hopkins University** \| *Research Assistant* \| October 2023 - Present
 
 - Initiated the 'R3 Read Today' project by selecting and presenting content on important topics related to responsible scientific practices for science communication on [X](https://twitter.com/R3_JHSPH) and [Instagram](https://www.instagram.com/r3_jhsph/). 
 
@@ -72,4 +72,4 @@ B.S. in Cell and Molecular Biology (Dual Degree) \| August 2019 - May 2023
 
 ## Fun Fact
 
-- Yunyi is a fan of alt/indie music and enjoys playing the electric guitar in her free time.
+Yunyi is a fan of alt/indie music and enjoys playing the electric guitar in her free time.
