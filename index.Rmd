@@ -1,40 +1,75 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Yunyi Ru"
+image: "yunyi.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/yunyi-ru"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/yunyi_ru"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/yunyi-ru"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:yru3@jh.edu"
 output:
   postcards::trestles
 ---
- 
-## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+## Biography
+
+Yunyi Ru is a 2nd year master's student in the Molecular Microbiology and Immunology department of [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/). 
+
+Yunyi currently works as a graduate student researcher at [The Pekosz Lab](https://pekoszlab.com/) on ***virology***, and a research assistant at [The R3ISE Center)](https://publichealth.jhu.edu/the-r3-center-for-innovation-in-science-education) on ***responsive science communication***. 
+
+---
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Johns Hopkins University** \| Baltimore, MD
 
-Ph.D. in Computer Science | September 2009 - May 2014
+ScM in Molecular Microbiology and Immunology \| August 2023 - May 2025
 
-**The University of California, Berkeley** | Berkeley, CA
+**Duke Kunshan University/Duke University** \| Kunshan, China/Durham, NC
 
-B.S. in Computer Science | September 2005 - May 2009
+B.S. in Cell and Molecular Biology (Dual Degree) \| August 2019 - May 2023
+
+---
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+#### Research
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**[The Pekosz Lab](https://pekoszlab.com/), Johns Hopkins University** \| *Graduate Student Researcher* \| October 2023 - Present
+
+- Isolated and characterized lab-adapted and circulating respiratory syncytial virus using various molecular biology and genetics methods. 
+
+**[The Lin Lab](https://yajuanlin.github.io/), Duke Kunshan University** \| *Undergraduate Student Researcher* \| October 2021 - May 2023
+
+- Monitored and analyzed changes in antibiotic resistance gene prevalence in a local shallow lake over the year.
+
+**[iGEM Competition 2022](https://2022.igem.wiki/dku/index.html), Duke Kunshan University** \| *Team Leader* \| December 2021 - October 2022
+
+- Designed an engineered bacteria strain by molecular cloning and protein expression.
+
+**Global Health Resource Center, Duke Kunshan University** \| *Undergraduate Student Researcher* \| August 2020 - December 2020
+
+- Conducted surveys and interviews to assess the current situation of chronic disease management and control in 4 local communities.
+
+#### Others
+
+**[The R3ISE Center](https://publichealth.jhu.edu/the-r3-center-for-innovation-in-science-education), Johns Hopkins University** \| *Research Assistant* \| October 2023 - Present
+
+- Initiated the 'R3 Read Today' project by selecting and presenting content on important topics related to responsible scientific practices for science communication on [X](https://twitter.com/R3_JHSPH) and [Instagram](https://www.instagram.com/r3_jhsph/). 
+
+**Academic Resource Center, Duke Kunshan University** \| *Teaching Assistant* \| October 2021 - December 2021
+
+**HOB Biotech Group Suzhou Co., Ltd** \| *R&D Intern* \| July 2021 - August 2021
+
+**Intramural Global Health Case Competition, Duke Kunshan University** \| *Team Leader* \| March 2021
+
+**Crystal Pharmatech Co., Ltd** \| *R&D Intern* \| May 2020 - June 2020
+
+---
+
+## Fun Fact
+
+- Yunyi is a fan of alt/indie music and enjoys playing the electric guitar in her free time.
