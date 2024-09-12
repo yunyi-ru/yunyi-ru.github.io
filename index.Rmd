@@ -18,7 +18,7 @@ output:
 
 Yunyi Ru is a 2nd year master's student in the Molecular Microbiology and Immunology department of [Johns Hopkins Bloomberg School of Public Health](https://publichealth.jhu.edu/). 
 
-Yunyi currently works as a graduate student researcher at [The Pekosz Lab](https://pekoszlab.com/) on ***virology***, and a research assistant at [R3ISE Center)](https://publichealth.jhu.edu/the-r3-center-for-innovation-in-science-education) on ***responsive science communication***. 
+Yunyi currently works as a graduate student researcher at [The Pekosz Lab](https://pekoszlab.com/) on ***virology***, and a research assistant at [R3ISE Center](https://publichealth.jhu.edu/the-r3-center-for-innovation-in-science-education) on ***responsive science communication***. 
 
 ---
 
