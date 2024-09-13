@@ -10,8 +10,11 @@ links:
     url: "https://github.com/yunyi-ru"
   - label: Email
     url: "mailto:yru3@jh.edu"
+  - label: Blog
+    url: "https://yunyi-ru.github.io/quarto-blog/"
+
 output:
-  postcards::trestles
+  postcards::solana
 ---
 
 ## Biography
@@ -70,6 +73,15 @@ B.S. in Cell and Molecular Biology (Dual Degree) \| August 2019 - May 2023
 
 ---
 
+## Resume
+
+![](Ru_Yunyi_Resume_2409.pdf){width=500px}
+
+---
+
 ## Fun Fact
 
 Yunyi is a fan of alt/indie music and enjoys playing the electric guitar in her free time.
+
+---
+*This page is built with [postcards](https://github.com/seankross/postcards).*
